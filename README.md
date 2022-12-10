@@ -1,5 +1,4 @@
-<style>
-   .btn {
+<style> btn {
     display: inline-block;
     background: #0000ff;
     color: #fff;
