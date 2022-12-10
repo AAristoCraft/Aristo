@@ -4,5 +4,5 @@
 
 <div id="badges">
   <a href="https://t.me/AristoCrafte4">
-    <p>Telegramm</p>
+    <p align="center">Telegramm</p>
 </div>
