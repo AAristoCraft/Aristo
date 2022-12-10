@@ -4,5 +4,5 @@
 
 <div id="badges">
   <a href="https://t.me/AristoCrafte4">
-    <img src="https://img.icons8.com/fluency/512/telegram-app.png" width: 100px; height: 100px; alt="Telegram"/></a>
+    <img src="https://img.icons8.com/fluency/512/telegram-app.png" width: 10px; height: 10px; alt="Telegram"/></a>
 </div>
