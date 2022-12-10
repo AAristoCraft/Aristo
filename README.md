@@ -4,5 +4,5 @@
 
 <div id="badges">
   <a href="https://t.me/AristoCrafte4">
-    <img src="https://img.icons8.com/ios-filled/512/telegram.png" alt="Telegram"/></a>
+    <img src="https://img.icons8.com/ios-filled/50/null/telegram.png" alt="Telegram"/></a>
 </div>
