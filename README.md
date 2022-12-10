@@ -3,5 +3,5 @@
 </div>
 
 <div id="badges">
-  <a style = "display: inline-block;background: #0000ff;color: #fff; padding: 1rem 1.5rem; text-decoration: none; border-radius: 3px;" href="https://t.me/AristoCrafte4" align="center" class="btn">Telegramm</a>
+  <a style = "display: inline-block; background: #0000ff; color: #fff; padding: 1rem 1.5rem; text-decoration: none; border-radius: 3px;" href="https://t.me/AristoCrafte4" align="center" class="btn">Telegramm</a>
 </div>
